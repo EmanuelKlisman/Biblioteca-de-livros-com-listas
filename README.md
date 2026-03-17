@@ -16,6 +16,5 @@ A ideia foi criar uma **biblioteca virtual no terminal**, permitindo interaçõe
 
 Reconheço que o código ainda pode ser otimizado e ter menos linhas, mas o objetivo principal do exercício foi **praticar lógica de programação**, especialmente o uso de estruturas de repetição e controle de fluxo.
 
-🚀 Seguimos evoluindo um pouco todos os dias!
 
 
