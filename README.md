@@ -16,9 +16,6 @@ A ideia foi criar uma **biblioteca virtual no terminal**, permitindo interaçõe
 
 Reconheço que o código ainda pode ser otimizado e ter menos linhas, mas o objetivo principal do exercício foi **praticar lógica de programação**, especialmente o uso de estruturas de repetição e controle de fluxo.
 
-O código completo está disponível no meu portfólio no GitHub.
-
 🚀 Seguimos evoluindo um pouco todos os dias!
 
-Para quem já passou por essa fase de aprendizado em Python:
-**o que vocês teriam feito diferente nesse projeto?**
+
