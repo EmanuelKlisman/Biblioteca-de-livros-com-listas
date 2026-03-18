@@ -12,6 +12,7 @@ A ideia foi criar uma **biblioteca virtual no terminal**, permitindo interaçõe
 
 * adicionar livros às estantes
 * visualizar a quantidade de livros cadastrados
+* Listar livros cadastrados
 * navegar entre diferentes menus do sistema
 
 Reconheço que o código ainda pode ser otimizado e ter menos linhas, mas o objetivo principal do exercício foi **praticar lógica de programação**, especialmente o uso de estruturas de repetição e controle de fluxo.
